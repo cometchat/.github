@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature Request
-    url: https://feedback.cometchat.com/cometchat-pro-feature-requests
-    about: Suggest an idea or a feature for this project
-  - name: Community Forums
-    url: https://forum.cometchat.com
-    about: Discuss this in the CometChat Pro Community Forums
   - name: Documentation
-    url: https://prodocs.cometchat.com
-    about: Read the documentation
+    url: https://www.cometchat.com/docs
+    about: Follow quick-start guides & read the documentation
+  - name: Help Center
+    url: https://help.cometchat.com
+    about: View FAQs and create support tickets
+  - name: Product Updates & Feature Requests
+    url: https://updates.cometchat.com
+    about: View product updates & suggest features
